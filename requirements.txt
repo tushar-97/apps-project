@@ -1,0 +1,5 @@
+transformers[torch]~=4.28.1
+azure-storage-blob
+azure-identity
+Flask==2.0.2
+gunicorn
